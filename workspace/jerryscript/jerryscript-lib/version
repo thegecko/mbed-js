@@ -1,0 +1,7 @@
+commit b828d4a46344b87d70a5959cae4e5e69c4cdc884
+Author: Zoltan Herczeg <zherczeg.u-szeged@partner.samsung.com>
+Date:   Fri Jun 10 01:04:08 2016 -0700
+
+    Rename ecma_is_value_error to ECMA_IS_VALUE_ERROR.
+    
+    JerryScript-DCO-1.0-Signed-off-by: Zoltan Herczeg zherczeg.u-szeged@partner.samsung.com
